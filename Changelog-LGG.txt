@@ -32,14 +32,19 @@ ChangeLog
 	Merged in SpaceYCorp files to eliminate the need to install an additional mod
 	Added support for PatchManager to enable the Ghostparts config to allow compatibility with old craft files
 
-2.0.0.6 (unreleased)
+2.0.1 (unreleased)
 	Removed all unnecessary :FOR[SpaceYLifters] clauses
 	Thanks to @JadeOfMaar for these changes:
-	Rebalanced engines.
+	Localized all tag lines
+	Removed broken MM script:  SpaceYLifters.cfg
+	Thanks to @JadeofMaar for these:
+		Fixes to variant themes // Soft-deprecate redundant custom themes
+		Update mod (self) detection
+		Rebalanced engines.
 		Most of these lose mass, cost and thrust and still slight gain on TWR.
 		Dramatic change to the Kiwi engine.
 		Standardized Isp curves.
-	Fixed bulkhead profile mismatches.
-	Added CryoEngines config. Moa series engines become dedicated Methalox.
-	Localized all tag lines
-	
+		Fixed bulkhead profile mismatches.
+		Added CryoEngines config. Moa series engines become dedicated Methalox.
+		Fixes to variant themes // Soft-deprecate redundant custom themes
+		Update mod (self) detection 
