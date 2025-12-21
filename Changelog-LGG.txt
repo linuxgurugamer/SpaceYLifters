@@ -32,7 +32,7 @@ ChangeLog
 	Merged in SpaceYCorp files to eliminate the need to install an additional mod
 	Added support for PatchManager to enable the Ghostparts config to allow compatibility with old craft files
 
-2.0.1 (unreleased)
+2.0.1
 	Removed all unnecessary :FOR[SpaceYLifters] clauses
 	Thanks to @JadeOfMaar for these changes:
 	Localized all tag lines
