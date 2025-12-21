@@ -183,7 +183,7 @@ This add-on adds ~78 large rocket parts
 
  [top](#parts-catalog)
 
-THIS FILE: CC BY-ND 4.0 by [linuxgurugamer](https://github.com/linuxgurugamer)
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from linuxgurugamer
 
 [mod]: https://www.curseforge.com/kerbal/ksp-mods/SpaceYLifters "SpaceY Lifters (SYL)"
