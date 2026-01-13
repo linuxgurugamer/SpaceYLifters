@@ -48,3 +48,6 @@ ChangeLog
 		Added CryoEngines config. Moa series engines become dedicated Methalox.
 		Fixes to variant themes // Soft-deprecate redundant custom themes
 		Update mod (self) detection 
+
+2.0.1.1
+	Fixed the stats of the Kiwi engine
