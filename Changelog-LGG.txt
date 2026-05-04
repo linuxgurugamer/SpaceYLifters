@@ -1,5 +1,6 @@
 ChangeLog
 
+
 2.0.0
 	Unofficial fork by Linuxgurugamer
 	Fixed scaling of the SpaceY A2-IX "Rosette" Interstage Thrust Plate
@@ -51,3 +52,7 @@ ChangeLog
 
 2.0.1.1
 	Fixed the stats of the Kiwi engine
+
+2.0.2
+	Added support for CryoEngines plumes
+	Added support for Waterfall
