@@ -1,30 +1,6 @@
 ChangeLog
 
-2.0.3
-	Added missing squad textures 
 
-2.0.2
-        Added support for CryoEngines plumes Added support for Waterfall
-
-2.0.1.1
-        Fixed the stats of the Kiwi engine
-
-2.0.1
-	Removed all unnecessary :FOR[SpaceYLifters] clauses
-	Thanks to @JadeOfMaar for these changes:
-	Localized all tag lines
-	Removed broken MM script:  SpaceYLifters.cfg
-	Thanks to @JadeofMaar for these:
-	    Fixes to variant themes // Soft-deprecate redundant custom themes
-	    Update mod (self) detection
-	    Rebalanced engines.
-	    Most of these lose mass, cost and thrust and still slight gain on TWR.
-	    Dramatic change to the Kiwi engine.
-	    Standardized Isp curves.
-	    Fixed bulkhead profile mismatches.
-	    Added CryoEngines config. Moa series engines become dedicated Methalox.
-	    Fixes to variant themes // Soft-deprecate redundant custom themes
-	    Update mod (self) detection
 
 2.0.0
 	Unofficial fork by Linuxgurugamer
@@ -81,3 +57,11 @@ ChangeLog
 2.0.2
 	Added support for CryoEngines plumes
 	Added support for Waterfall
+
+2.0.3
+	Added missing squad textures 
+
+2.0.3.1
+	Put the sounds back which were being removed by the Waterfall patch
+	Adjusted some positions of the Waterfall effects
+
